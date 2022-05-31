@@ -2,10 +2,18 @@
 
 ## Boas-vindas ao repositório do projeto Arte com Pixels!
 
-Neste projeto, foi implementado um editor de arte com pixels em que a pessoa usuária poderá escolher uma cor em uma paleta de cores e poderá pintar o que quiser em um quadro branco
+Neste projeto, foi implementado um editor de arte com pixels em que a pessoa usuária poderá escolher uma cor em uma paleta de cores e poderá pintar o que quiser em um quadro branco. Foi um projeto realizado enquanto estudante de web full-stack na Trybe. 
 
-Foi um projeto realizado enquanto estudante de web full-stack na Trybe. Os conhecimentos adquiridos foram HTML, CSS, JavaScript e Lógica de programação.
+## Demonstração
 
+<img src="./src/pixel.gif" />
+
+## 🚀Tecnologias e Ferramentas utilizadas:
+<h1 align='left'>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</h1>
 
 # Requisitos Obrigatórios
 
