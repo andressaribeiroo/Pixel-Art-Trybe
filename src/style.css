@@ -43,7 +43,7 @@ body {
   align-items: center;
   margin: auto;
   max-width: 300px;
-  cursor: url(/cursor.png), auto;
+  cursor: url(./cursor.png), auto;
 }
 
 .color {
@@ -93,7 +93,7 @@ body {
   flex-wrap: wrap;
   align-items: center;
   margin: 20px auto;
-  cursor: url(/cursor.png), auto;
+  cursor: url(./cursor.png), auto;
 }
 
 .pixel {
